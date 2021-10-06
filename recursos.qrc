@@ -1,0 +1,10 @@
+<RCC>
+    <qresource prefix="/">
+        <file>icon_turma.png</file>
+        <file>icon_gerar.png</file>
+        <file>icon_angel.png</file>
+        <file>logo_branco_univali.png</file>
+        <file>logo-azul_univali.png</file>
+        <file>MandeBem.png</file>
+    </qresource>
+</RCC>
